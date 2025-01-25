@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "type": "Credit",
+    "amount": 14.06,
+    "name": "Apple",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "date": "2025-01-24T21:00:00.000Z",
+    "status": "Pending",
+    "authorizedUser": "Diana",
+    "paymentMethod": "RBC Bank Debit Card"
+  },
+  {
+    "id": 2,
+    "type": "Payment",
+    "amount": 174,
+    "name": null,
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "date": "2025-01-23T21:00:00.000Z",
+    "status": "Approved",
+    "authorizedUser": null,
+    "paymentMethod": "RBC Bank Debit Card"
+  },
+  {
+    "id": 3,
+    "type": "Credit",
+    "amount": 3.24,
+    "name": "Apple",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "date": "2025-01-22T21:00:00.000Z",
+    "status": "Approved",
+    "authorizedUser": "Diana",
+    "paymentMethod": "RBC Bank Debit Card"
+  },
+  {
+    "id": 4,
+    "type": "Payment",
+    "amount": 99.71,
+    "name": null,
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "date": "2025-01-21T21:00:00.000Z",
+    "status": "Approved",
+    "authorizedUser": null,
+    "paymentMethod": "RBC Bank Debit Card"
+  },
+  {
+    "id": 5,
+    "type": "Payment",
+    "amount": 73.58,
+    "name": null,
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "date": "2025-01-20T21:00:00.000Z",
+    "status": "Approved",
+    "authorizedUser": null,
+    "paymentMethod": "RBC Bank Debit Card"
+  },
+  {
+    "id": 6,
+    "type": "Credit",
+    "amount": 21.61,
+    "name": "IKEA",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "date": "2025-01-19T21:00:00.000Z",
+    "status": "Approved",
+    "authorizedUser": null,
+    "paymentMethod": "RBC Bank Debit Card"
+  },
+  {
+    "id": 7,
+    "type": "Credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "date": "2025-01-18T21:00:00.000Z",
+    "status": "Approved",
+    "authorizedUser": null,
+    "paymentMethod": "RBC Bank Debit Card"
+  },
+  {
+    "id": 8,
+    "type": "Credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "date": "2025-01-17T21:00:00.000Z",
+    "status": "Approved",
+    "authorizedUser": null,
+    "paymentMethod": "RBC Bank Debit Card"
+  },
+  {
+    "id": 9,
+    "type": "Credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "date": "2025-01-16T21:00:00.000Z",
+    "status": "Approved",
+    "authorizedUser": null,
+    "paymentMethod": "RBC Bank Debit Card"
+  },
+  {
+    "id": 10,
+    "type": "Credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "date": "2025-01-15T21:00:00.000Z",
+    "status": "Approved",
+    "authorizedUser": null,
+    "paymentMethod": "RBC Bank Debit Card"
+  }
+]

@@ -1,0 +1,1 @@
+export const MAXIMUM_CARD_BALANCE = 1500;
